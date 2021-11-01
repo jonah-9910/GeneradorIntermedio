@@ -1,0 +1,7 @@
+C:\Users\USER\Documents\GitHub\GeneradorCodigoIntermedio\GeneradorCodigoIntermedio\bin\Debug\GeneradorCodigoIntermedio.exe.config
+C:\Users\USER\Documents\GitHub\GeneradorCodigoIntermedio\GeneradorCodigoIntermedio\bin\Debug\GeneradorCodigoIntermedio.exe
+C:\Users\USER\Documents\GitHub\GeneradorCodigoIntermedio\GeneradorCodigoIntermedio\bin\Debug\GeneradorCodigoIntermedio.pdb
+C:\Users\USER\Documents\GitHub\GeneradorCodigoIntermedio\GeneradorCodigoIntermedio\obj\Debug\GeneradorCodigoIntermedio.csprojAssemblyReference.cache
+C:\Users\USER\Documents\GitHub\GeneradorCodigoIntermedio\GeneradorCodigoIntermedio\obj\Debug\GeneradorCodigoIntermedio.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\GeneradorCodigoIntermedio\GeneradorCodigoIntermedio\obj\Debug\GeneradorCodigoIntermedio.exe
+C:\Users\USER\Documents\GitHub\GeneradorCodigoIntermedio\GeneradorCodigoIntermedio\obj\Debug\GeneradorCodigoIntermedio.pdb
